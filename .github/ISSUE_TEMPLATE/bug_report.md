@@ -1,11 +1,16 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: "[BUG] Name your bug here...."
+labels: bug, Todo
+assignees: DillonB07
 
 ---
+
+**I agree that...**
+<!-- Please tick these boxes AFTER creating the issue -->
+* [ ] this is not a duplicate issue
+* [ ] all of the information that I have provided is correct
 
 **Describe the bug**
 A clear and concise description of what the bug is.
