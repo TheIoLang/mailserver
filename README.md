@@ -17,7 +17,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+
+    <td align="center"><a href="http://jbloves27.repl.co"><img src="https://avatars.githubusercontent.com/u/76911308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>anime fanatic</b></sub></a><br /><a href="#projectManagement-JBYT27" title="Project Management">📆</a></td>
+
     <td align="center"><a href="https://dillonb07.is-a.dev"><img src="https://avatars.githubusercontent.com/u/83948303?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dillon Barnes</b></sub></a><br /><a href="#infra-DillonB07" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/TheIoLang/mailserver/commits?author=DillonB07" title="Code">💻</a> <a href="#maintenance-DillonB07" title="Maintenance">🚧</a> <a href="#projectManagement-DillonB07" title="Project Management">📆</a> <a href="#security-DillonB07" title="Security">🛡️</a></td>
+
   </tr>
 </table>
 

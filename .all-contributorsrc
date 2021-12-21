@@ -6,6 +6,14 @@
   "commit": false,
   "contributors": [
     {
+      "login": "JBYT27",
+      "name": "anime fanatic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76911308?v=4",
+      "profile": "http://jbloves27.repl.co",
+      "contributions": [
+        "projectManagement"
+      ]
+    },
       "login": "DillonB07",
       "name": "Dillon Barnes",
       "avatar_url": "https://avatars.githubusercontent.com/u/83948303?v=4",
