@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "DillonB07",
+      "name": "Dillon Barnes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83948303?v=4",
+      "profile": "https://dillonb07.is-a.dev",
+      "contributions": [
+        "infra",
+        "code",
+        "maintenance",
+        "projectManagement",
+        "security"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "mailserver",
+  "projectOwner": "TheIoLang",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
