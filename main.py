@@ -45,7 +45,7 @@ Message: {message}
         return redirect('https://theiolang.github.io/contact/sent')
 
     else:
-        return redirect('https://theiolang.github.io/contact')
+        return redirect('https://theiolang.github.io/contact/failure')
 
 @app.route('/')
 @app.route('/<a>')
